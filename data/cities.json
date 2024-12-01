@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "PT",
+      "date": "2021-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": "38.727881642324164",
+        "lng": "-9.140900099907554"
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "DE",
+      "date": "2017-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": "52.53586782505711",
+        "lng": "13.376933665713324"
+      },
+      "id": "98443197"
+    },
+    {
+      "cityName": "Barcelona",
+      "country": "Spain",
+      "emoji": "ES",
+      "date": "2016-03-12T09:12:11.863Z",
+      "notes": "",
+      "position": {
+        "lat": "41.38819838404563",
+        "lng": "2.16632207405163"
+      },
+      "id": "98443198"
+    },
+    {
+      "cityName": "Tehran",
+      "country": "Iran",
+      "emoji": "IR",
+      "date": "2027-10-12T09:24:11.863Z",
+      "notes": "",
+      "position": {
+        "lat": "35.671803",
+        "lng": "51.423084"
+      },
+      "id": "98443199"
+    },
+    {
+      "cityName": "Munich",
+      "country": "Germany",
+      "emoji": "DE",
+      "date": "2010-07-12T09:14:42.863Z",
+      "notes": "",
+      "position": {
+        "lat": "48.12757580041641",
+        "lng": "11.559062151898733"
+      },
+      "id": "984431100"
+    },
+    {
+      "id": "5e50",
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "date": "2024-09-29T16:36:54.774Z",
+      "notes": "",
+      "emoji": "GB",
+      "position": {
+        "lat": "51.50888555199259",
+        "lng": "-0.07415780238806181"
+      }
+    }
+  ]
+}
